@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Project: Blog</title>
+    </head>
+     <style>  
+         h3 {
+             font-size: 18px;
+             font-weight: 18;
+             font-style:sans-serif;
+             font-family:sans-serif;
+         }
+         h6 { font-style:monospace; 
+             
+         }
+         
+         h1 { font-family:cursive;
+              
+             text-decoration: underline;
+             text-align:center;
+             
+         }
+         
+         h3 {font-family:bold;
+             
+         }
+         
+     </style>
+    <body> 
+    
+        
+        <h1>Jacob's blog</h1>
+
+        <h3>Contents
+        
+            <ul>Daily activities
+        
+            <li>Personal hygiene</li>
+            <li>Reading</li>
+            <li>Weightlifting</li>
+            
+                
+            </ul>
+        </h3>
+        <ul>
+            
+        </ul>
+        
+        <h2>First post</h2>
+        
+        <h6>Posted on some date in some
+        year. this has been an very unexpected year</h6>
+        
+        <p>Something excited happened.The virus has finally ended and people are resuming to their normal life</p>
+        
+        
+    </body>
+</html>
